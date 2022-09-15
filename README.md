@@ -9,7 +9,7 @@
 
 
 
-MovieDB adalah aplikasi untuk mencari film yang sedang trending atau baru rilis
+MovieDB adalah sebuah aplikasi yang diperuntukan mencari film-film yang kita inginkan, baik itu yang sedang trending atau baru rilis.
 
 ## Features
 
@@ -64,15 +64,16 @@ flutter run
 
 | Anggota Team 6 | Social  Media | Github |
 | ------ | ------ |------ |
+| Ripki Hamdi | www.linkedin.com/in/ripkihamdi/ |https://github.com/ripkihamdi|
 | Syifa Saif Hidayat|  www.linkedin.com/in/syifaifh |https://github.com/syisahi12|
 | Andrianto Silaban | www.linkedin.com/in/andrianto-silaban |https://github.com/andrisilaban|
 | Suri Suryanto |  www.linkedin.com/in/suri-suryanto/ |https://github.com/surisuryanto|
 | Taukhid Aji | http://www.linkedin.com/in/taukhid-ajin |https://github.com/taukhidajin|
-| Ripki Hamdi | www.linkedin.com/in/ripkihamdi/ |https://github.com/ripkihamdi|
+
 
 
 ## FUGI(Flutter User Grup Indonesia)
-Fugi adalah sebuah komunitas flutter indonesia, fugi berkomunikasi saling berkomunikasi dengan WhatsApps grup dimana kita dapat sharing pengetahuan dan kesuliatan sesama 
+Fugi adalah sebuah komunitas flutter indonesia, dimana dikomunitas ini, anggota bisa saling berkomunikasi dengan WhatsApps grup dimana kita dapat sharing pengetahuan dan trouble kodingan.
 ## UI UX DESIGN BY
 https://www.figma.com/@iqbalsyafiq
 
